@@ -47,7 +47,7 @@ export default function App() {
       nextSquare[i] = "X";
       console.log(nextSquare);
     } else {
-      nextSquare[i] = "O";
+      nextSquare[i] = "O`";
       console.log(squares);
     }
     setSquare(nextSquare);
